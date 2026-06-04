@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Typing Speed Test</title>
+  <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+  <!-- ── MENU SCREEN ── -->
+  <div id="menu-screen" class="screen active">
+    <div class="wrapper menu-wrapper">
+      <h1>⌨ Typing Speed Test</h1>
+      <p class="menu-sub">Test your WPM, accuracy, and more</p>
+      <button class="menu-btn btn-primary" onclick="startGame()">Start Typing</button>
+      <button class="menu-btn btn-secondary" onclick="toggleHowTo()">How to Play</button>
+      <div id="howto-box" class="howto-box">
+        <p>&#8226; Start typing when you see the paragraph — the timer begins automatically.</p>
+        <p>&#8226; <span style="color:#56964f">Green</span> = correct &nbsp;·&nbsp; <span style="color:#cb3439">Red</span> = mistake</p>
+        <p>&#8226; Press <strong>Backspace</strong> to fix errors.</p>
+        <p>&#8226; Finish the whole paragraph before 60 s to win!</p>
+        <p>&#8226; Watch the keyboard light up as you type.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── GAME SCREEN ── -->
+  <div id="game-screen" class="screen">
+    <div class="wrapper">
+      <input type="text" class="input-field">
+      <div class="content-box">
+        <p id="game-hint" class="game-hint">Click here or start typing to begin</p>
+        <div class="typing-text"><p></p></div>
+        <div class="content">
+          <ul class="result-details">
+            <li class="time"><p>Time Left:</p><span><b>60</b>s</span></li>
+            <li class="mistake"><p>Mistakes:</p><span>0</span></li>
+            <li class="wpm"><p>WPM:</p><span>0</span></li>
+            <li class="cpm"><p>CPM:</p><span>0</span></li>
+          </ul>
+          <div class="game-btns">
+            <button class="btn-menu" onclick="showScreen('menu-screen')">Menu</button>
+            <button class="btn-try">Try Again</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- ON-SCREEN KEYBOARD -->
+      <div id="keyboard">
+        <div class="kb-row" id="kb-r1"></div>
+        <div class="kb-row" id="kb-r2"></div>
+        <div class="kb-row" id="kb-r3"></div>
+        <div class="kb-row" id="kb-r4"></div>
+        <div class="kb-row" id="kb-r5"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── END SCREEN ── -->
+  <div id="end-screen" class="screen">
+    <div class="wrapper end-wrapper">
+      <div id="end-icon" class="end-icon"></div>
+      <h2 id="end-title" class="end-title"></h2>
+      <p id="end-subtitle" class="end-subtitle"></p>
+      <div class="end-stats">
+        <div class="end-stat">
+          <p class="end-stat-label">WPM</p>
+          <span id="e-wpm" class="end-stat-val brown">0</span>
+        </div>
+        <div class="end-stat">
+          <p class="end-stat-label">CPM</p>
+          <span id="e-cpm" class="end-stat-val brown">0</span>
+        </div>
+        <div class="end-stat">
+          <p class="end-stat-label">Accuracy</p>
+          <span id="e-acc" class="end-stat-val green">0%</span>
+        </div>
+        <div class="end-stat">
+          <p class="end-stat-label">Mistakes</p>
+          <span id="e-mis" class="end-stat-val red">0</span>
+        </div>
+      </div>
+      <div class="end-btns">
+        <button class="menu-btn btn-primary" onclick="playAgain()">Play Again</button>
+        <button class="menu-btn btn-secondary" onclick="showScreen('menu-screen')">Main Menu</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/paragraphs.js"></script>
+  <script src="js/script.js"></script>
+</body>
+</html>
