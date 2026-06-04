@@ -2,6 +2,13 @@
 
 A browser-based typing speed test game built with vanilla HTML, CSS, and JavaScript. Test your WPM, track your accuracy, and watch the keyboard light up as you type, all with no frameworks or dependencies required.
 
+
+<p align="center">
+  <a href="https://ajunabia228.github.io/typing-speed-game/">
+    <img src="https://img.shields.io/badge/▶%20PLAY%20IT%20LIVE-00ff88?style=for-the-badge&logoColor=black" alt="Play it live">
+  </a>
+</p>
+
 ---
 
 ## 🎮 Features
