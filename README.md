@@ -1,6 +1,6 @@
 # ⌨️ Typing Speed Test
 
-A browser-based typing speed test game built with vanilla HTML, CSS, and JavaScript. Test your WPM, track your accuracy, and watch the keyboard light up as you type — all with no frameworks or dependencies required.
+A browser-based typing speed test game built with vanilla HTML, CSS, and JavaScript. Test your WPM, track your accuracy, and watch the keyboard light up as you type, all with no frameworks or dependencies required.
 
 ---
 
@@ -29,7 +29,7 @@ A browser-based typing speed test game built with vanilla HTML, CSS, and JavaScr
 | **Vanilla JavaScript** | Game logic, keyboard rendering, timer, stat calculations |
 | **Google Fonts — Poppins** | Typography |
 
-No frameworks. No build tools. No dependencies beyond a Google Fonts import.
+There are no frameworks, build tools, or dependencies beyond a Google Fonts import 💻
 
 ---
 
@@ -48,22 +48,24 @@ typing-speed-test/
 
 ## 🚀 Getting Started
 
+To play locally, please follow the instructions below 🤔
+
 1. Clone or download the repository:
    ```bash
    git clone https://github.com/YOUR_USERNAME/typing-speed-test.git
    ```
-2. Open `index.html` in any modern browser — no server or install required.
+2. Open `index.html` in any modern browser - no server or install required.
 
 ---
 
 ## 🎯 How to Play
 
-1. Click **Start Typing** from the main menu.
-2. Begin typing the displayed paragraph — the timer starts automatically.
-3. Use **Backspace** to fix mistakes.
-4. Finish the paragraph before 60 seconds to win.
-5. View your final WPM, CPM, accuracy, and mistake count on the results screen.
-6. Click **Play Again** or return to the **Main Menu** to reset.
+1. Click **Start Typing** from the main menu
+2. Begin typing the displayed paragraph (the timer starts automatically)
+3. Use **Backspace** to fix mistakes
+4. Finish the paragraph within 60 seconds to win
+5. View your final WPM, CPM, accuracy, and mistake count on the results screen
+6. Click **Play Again** or return to the **Main Menu** to reset
 
 ---
 
@@ -95,9 +97,9 @@ Accuracy = ((characters typed - mistakes) / characters typed) × 100
 
 ## 📜 Credits
 
-- **Original concept & base code** — [CodingNepal](https://www.codingnepalweb.com/typing-speed-test-game-html-css-javascript/) — the foundational typing game logic, HTML structure, and CSS layout.
-- **Extended & modified by** — Art — added main menu, on-screen keyboard, win/lose end screens with full stat breakdowns, brown theme, and expanded paragraph pool.
-- **Font** — [Poppins](https://fonts.google.com/specimen/Poppins) via Google Fonts (SIL Open Font License).
+- **Original concept & base code:** [Yaswanth Teja Yarlagadda](https://github.com/yaswanthteja/Typing-speed-test) developed the foundational typing game logic, HTML structure, and CSS layout
+- **Extended & modified by Antonio Unabia:** added main menu, on-screen keyboard, win/lose end screens with full stat breakdowns, brown theme, and expanded paragraph pool
+- **Font:** [Poppins](https://fonts.google.com/specimen/Poppins) via Google Fonts (SIL Open Font License)
 
 ---
 
