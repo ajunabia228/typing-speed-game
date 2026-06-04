@@ -2,6 +2,9 @@
 
 A browser-based typing speed test game built with vanilla HTML, CSS, and JavaScript. Test your WPM, track your accuracy, and watch the keyboard light up as you type, all with no frameworks or dependencies required.
 
+<p align="center">
+  <img src="screenshots/mainmenu.png" width="60%" alt="main menu screen" />
+</p>
 
 <p align="center">
   <a href="https://ajunabia228.github.io/typing-speed-game/">
@@ -12,6 +15,10 @@ A browser-based typing speed test game built with vanilla HTML, CSS, and JavaScr
 ---
 
 ## 🎮 Features
+
+<p align="center">
+  <img src="screenshots/gameplay.png" width="60%" alt="gameplay screenshot" />
+</p>
 
 - **Main menu** — Start screen with a "How to Play" toggle so new players can learn the rules before diving in.
 - **Live stats** — Real-time display of Time Left, WPM (Words Per Minute), CPM (Characters Per Minute), and Mistakes as you type.
@@ -73,6 +80,18 @@ To play locally, please follow the instructions below 🤔
 4. Finish the paragraph within 60 seconds to win
 5. View your final WPM, CPM, accuracy, and mistake count on the results screen
 6. Click **Play Again** or return to the **Main Menu** to reset
+
+If you successfully typed the paragraph before the timer ends, you beat the game!
+
+<p align="center">
+  <img src="screenshots/gamewon.png" width="60%" alt="game won screen" />
+</p>
+
+But if you weren't able to type the paragraph, you lost the game!
+
+<p align="center">
+  <img src="screenshots/gameloss.png" width="60%" alt="game loss screen" />
+</p>
 
 ---
 
