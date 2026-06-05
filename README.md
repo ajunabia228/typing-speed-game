@@ -1,6 +1,6 @@
 # ⌨️ Typing Speed Test
 
-A browser-based typing speed test game built with vanilla HTML, CSS, and JavaScript. Test your WPM, track your accuracy, and watch the keyboard light up as you type, all with no frameworks or dependencies required! 👨‍💻
+A browser-based typing speed test game built with vanilla HTML, CSS, and JavaScript. Test your WPM, track your accuracy, and watch the keyboard light up as you type, all with no frameworks or dependencies required! 👨‍💻 👩‍💻
 
 <p align="center">
   <img src="screenshots/mainmenu.png" width="60%" alt="main menu screen" />
