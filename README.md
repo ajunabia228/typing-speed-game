@@ -98,7 +98,7 @@ If you successfully typed the paragraph before the timer ends, you beat the game
   <img src="screenshots/gamewon.png" width="60%" alt="game won screen" />
 </p>
 
-But if you weren't able to type the paragraph, you lost the game!
+But if you weren't able to type the paragraph in time, you lost the game!
 
 <p align="center">
   <img src="screenshots/gameloss.png" width="60%" alt="game loss screen" />
