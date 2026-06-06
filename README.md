@@ -134,8 +134,7 @@ Accuracy = ((characters typed - mistakes) / characters typed) × 100
 
 ## 📜 Credits
 
-- **Original concept & base code:** [Yaswanth Teja Yarlagadda](https://github.com/yaswanthteja/Typing-speed-test) developed the foundational typing game logic, HTML structure, and CSS layout
-- **Extended & modified by Antonio Unabia:** added main menu, on-screen keyboard, win/lose end screens with full stat breakdowns, brown theme, and expanded paragraph pool
+- **Original concept & base code:** [Yaswanth Teja Yarlagadda](https://github.com/yaswanthteja/Typing-speed-test) developed the foundational typing game logic, HTML structure, and CSS layout. Extended & modified with main menu, on-screen keyboard, win/lose end screens with full stat breakdowns, brown theme, and expanded paragraph pool
 - **Font:** [Poppins](https://fonts.google.com/specimen/Poppins) via Google Fonts (SIL Open Font License)
 
 ---
