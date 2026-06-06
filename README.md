@@ -20,17 +20,17 @@ A browser-based typing speed test game built with vanilla HTML, CSS, and JavaScr
   <img src="screenshots/gameplay.png" width="60%" alt="gameplay screenshot" />
 </p>
 
-- **Main menu** — Start screen with a "How to Play" toggle so new players can learn the rules before diving in.
-- **Live stats** — Real-time display of Time Left, WPM (Words Per Minute), CPM (Characters Per Minute), and Mistakes as you type.
-- **Color-coded feedback** — Correct characters turn green, incorrect characters turn red with a pink highlight. A blinking brown underline marks your current position.
-- **Backspace support** — Erase and correct mistakes mid-paragraph; the mistake counter adjusts accordingly.
-- **On-screen keyboard** — A full QWERTY keyboard rendered below the text lights up each key as you press it, giving visual feedback on every keystroke.
-- **60-second countdown** — The timer starts the moment you begin typing.
-- **Win condition** — Finish the full paragraph before time runs out and you're taken to a congratulations screen.
-- **Game over screen** — If time expires before you finish, a game over screen appears with your final stats.
-- **End-screen stats** — Both outcome screens display final WPM, CPM, Accuracy %, and total Mistakes.
-- **Random paragraphs** — A pool of 10 paragraphs is randomly selected each round for replayability.
-- **Responsive design** — Layouts adapt cleanly to smaller screens and mobile viewports.
+- **Main menu**: Start screen with a "How to Play" toggle so new players can learn the rules before diving in.
+- **Live stats**: Real-time display of Time Left, WPM (Words Per Minute), CPM (Characters Per Minute), and Mistakes as you type.
+- **Color-coded feedback**: Correct characters turn green, incorrect characters turn red with a pink highlight. A blinking brown underline marks your current position.
+- **Backspace support**: Erase and correct mistakes mid-paragraph; the mistake counter adjusts accordingly.
+- **On-screen keyboard**: A full QWERTY keyboard rendered below the text lights up each key as you press it, giving visual feedback on every keystroke.
+- **60-second countdown**: The timer starts the moment you begin typing.
+- **Win condition**: Finish the full paragraph before time runs out and you're taken to a congratulations screen.
+- **Game over screen**: If time expires before you finish, a game over screen appears with your final stats.
+- **End-screen stats**: Both outcome screens display final WPM, CPM, Accuracy %, and total Mistakes.
+- **Random paragraphs**: A pool of 10 paragraphs is randomly selected each round for replayability.
+- **Responsive design**: Layouts adapt cleanly to smaller screens and mobile viewports.
 
 ---
 
@@ -98,7 +98,7 @@ If you successfully typed the paragraph before the timer ends, you beat the game
   <img src="screenshots/gamewon.png" width="60%" alt="game won screen" />
 </p>
 
-But if you weren't able to type the paragraph in time, you lost the game!
+But if you aren't able to type the paragraph in time, you lose the game!
 
 <p align="center">
   <img src="screenshots/gameloss.png" width="60%" alt="game loss screen" />
