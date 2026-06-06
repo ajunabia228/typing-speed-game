@@ -19,4 +19,12 @@ const paragraphs = [
   "My moms always told me, 'How long you gonna play the victim?' I can say I'm mad and I hate everything, but nothing really changes until I change myself.",
   "To tell the truth, I'd rather be with you. I'd rather pick you up, I'd rather call the school. Don't matter where you are, don't matter what you do.",
   "Let's go find a place that's far from here, for real. Far from here. Nights like this, nights like this, I wish I could do the impossible.",
+  "Maybe I'm the problem. No, I don't want drama. Do you really care? Or do you see a monster?",
+  "If you have the opportunity to play this game of life you need to appreciate every moment. A lot of people don't appreciate the moment until it's passed.",
+  "If you're you, it doesn't matter if you're the most boring person in the world: someone will like you. You're not trying to be anyone else.",
+  "Everybody just has different steps in their life that they take to do what they should.",
+  "If you believe in yourself, it will get you through it.",
+  "Felt the love between us when we met. Don't be afraid, I guess I'll be right there. I need you to do just what I say. Knowin' it was destined, I could be your best friend.",
+  "Some people only see the negative, some people find a way to see the good in everything.",
+  "Some people want it all, but I don't want nothing at all. If it ain't you, baby, if I ain't got you, baby. Some people want diamond rings, some just want everything. But everything means nothing if I ain't got you.",
 ];
