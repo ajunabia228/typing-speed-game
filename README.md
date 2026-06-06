@@ -1,6 +1,6 @@
 # ⌨️ Typing Speed Test
 
-A browser-based typing speed test game built with vanilla HTML, CSS, and JavaScript. Test your WPM, track your accuracy, and watch the keyboard light up as you type, all with no frameworks or dependencies required.
+A browser-based typing speed test game built with vanilla HTML, CSS, and JavaScript. Test your WPM, track your accuracy, and watch the keyboard light up as you type, all with no frameworks or dependencies required! 👨‍💻 👩‍💻
 
 <p align="center">
   <img src="screenshots/mainmenu.png" width="60%" alt="main menu screen" />
@@ -20,28 +20,39 @@ A browser-based typing speed test game built with vanilla HTML, CSS, and JavaScr
   <img src="screenshots/gameplay.png" width="60%" alt="gameplay screenshot" />
 </p>
 
-- **Main menu** — Start screen with a "How to Play" toggle so new players can learn the rules before diving in.
-- **Live stats** — Real-time display of Time Left, WPM (Words Per Minute), CPM (Characters Per Minute), and Mistakes as you type.
-- **Color-coded feedback** — Correct characters turn green, incorrect characters turn red with a pink highlight. A blinking brown underline marks your current position.
-- **Backspace support** — Erase and correct mistakes mid-paragraph; the mistake counter adjusts accordingly.
-- **On-screen keyboard** — A full QWERTY keyboard rendered below the text lights up each key as you press it, giving visual feedback on every keystroke.
-- **60-second countdown** — The timer starts the moment you begin typing.
-- **Win condition** — Finish the full paragraph before time runs out and you're taken to a congratulations screen.
-- **Game over screen** — If time expires before you finish, a game over screen appears with your final stats.
-- **End-screen stats** — Both outcome screens display final WPM, CPM, Accuracy %, and total Mistakes.
-- **Random paragraphs** — A pool of 10 paragraphs is randomly selected each round for replayability.
-- **Responsive design** — Layouts adapt cleanly to smaller screens and mobile viewports.
+- **Main menu**: Start screen with a "How to Play" toggle so new players can learn the rules before diving in.
+- **Live stats**: Real-time display of Time Left, WPM (Words Per Minute), CPM (Characters Per Minute), and Mistakes as you type.
+- **Color-coded feedback**: Correct characters turn green, incorrect characters turn red with a pink highlight. A blinking brown underline marks your current position.
+- **Backspace support**: Erase and correct mistakes mid-paragraph; the mistake counter adjusts accordingly.
+- **On-screen keyboard**: A full QWERTY keyboard rendered below the text lights up each key as you press it, giving visual feedback on every keystroke.
+- **60-second countdown**: The timer starts the moment you begin typing.
+- **Win condition**: Finish the full paragraph before time runs out and you're taken to a congratulations screen.
+- **Game over screen**: If time expires before you finish, a game over screen appears with your final stats.
+- **End-screen stats**: Both outcome screens display final WPM, CPM, Accuracy %, and total Mistakes.
+- **Random paragraphs**: A pool of 10 paragraphs is randomly selected each round for replayability.
+- **Responsive design**: Layouts adapt cleanly to smaller screens and mobile viewports.
 
 ---
 
 ## 🖥️ Tech Stack
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+</p>
 
 | Technology | Role |
 |---|---|
 | **HTML5** | Page structure and screen layout |
 | **CSS3** | Styling, animations (blinking cursor, key press), responsive breakpoints |
 | **Vanilla JavaScript** | Game logic, keyboard rendering, timer, stat calculations |
-| **Google Fonts — Poppins** | Typography |
 
 There are no frameworks, build tools, or dependencies beyond a Google Fonts import 💻
 
@@ -87,7 +98,7 @@ If you successfully typed the paragraph before the timer ends, you beat the game
   <img src="screenshots/gamewon.png" width="60%" alt="game won screen" />
 </p>
 
-But if you weren't able to type the paragraph, you lost the game!
+But if you aren't able to type the paragraph in time, you lose the game!
 
 <p align="center">
   <img src="screenshots/gameloss.png" width="60%" alt="game loss screen" />
@@ -123,8 +134,7 @@ Accuracy = ((characters typed - mistakes) / characters typed) × 100
 
 ## 📜 Credits
 
-- **Original concept & base code:** [Yaswanth Teja Yarlagadda](https://github.com/yaswanthteja/Typing-speed-test) developed the foundational typing game logic, HTML structure, and CSS layout
-- **Extended & modified by Antonio Unabia:** added main menu, on-screen keyboard, win/lose end screens with full stat breakdowns, brown theme, and expanded paragraph pool
+- **Original concept & base code:** [Yaswanth Teja Yarlagadda](https://github.com/yaswanthteja/Typing-speed-test) developed the foundational typing game logic, HTML structure, and CSS layout. Extended & modified with main menu, on-screen keyboard, win/lose end screens with full stat breakdowns, brown theme, and expanded paragraph pool
 - **Font:** [Poppins](https://fonts.google.com/specimen/Poppins) via Google Fonts (SIL Open Font License)
 
 ---
