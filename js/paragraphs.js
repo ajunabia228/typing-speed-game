@@ -27,4 +27,7 @@ const paragraphs = [
   "Felt the love between us when we met. Don't be afraid, I guess I'll be right there. I need you to do just what I say. Knowin' it was destined, I could be your best friend.",
   "Some people only see the negative, some people find a way to see the good in everything.",
   "Some people want it all, but I don't want nothing at all. If it ain't you, baby, if I ain't got you, baby. Some people want diamond rings, some just want everything. But everything means nothing if I ain't got you.",
+  "The cost of a thing is the amount of what I will call life which is required to be exchanged for it, immediately or in the long run.",
+  "In the long run, the sharpest weapon of all is a kind and gentle spirit.",
+  "The things we truly love stay with us always, locked in our hearts as long as life remains.",
 ];
