@@ -30,5 +30,6 @@ const paragraphs = [
   "The cost of a thing is the amount of what I will call life which is required to be exchanged for it, immediately or in the long run.",
   "In the long run, the sharpest weapon of all is a kind and gentle spirit.",
   "The things we truly love stay with us always, locked in our hearts as long as life remains.",
-  "In the sky there are always answers and explanations for everything: every pain, every suffering, joy and confusion."
+  "In the sky there are always answers and explanations for everything: every pain, every suffering, joy and confusion.",
+  "Deep into that darkness peering, long I stood there, wondering, fearing, doubting, dreaming dreams no mortal ever dared to dream before.",
 ];
