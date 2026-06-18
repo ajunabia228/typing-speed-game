@@ -32,4 +32,5 @@ const paragraphs = [
   "The things we truly love stay with us always, locked in our hearts as long as life remains.",
   "In the sky there are always answers and explanations for everything: every pain, every suffering, joy and confusion.",
   "Deep into that darkness peering, long I stood there, wondering, fearing, doubting, dreaming dreams no mortal ever dared to dream before.",
+  "Surround yourself with the best people you can find, delegate authority, and don't interfere as long as the policy you've decided upon is being carried out.",
 ];
