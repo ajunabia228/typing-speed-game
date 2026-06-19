@@ -34,4 +34,5 @@ const paragraphs = [
   "Deep into that darkness peering, long I stood there, wondering, fearing, doubting, dreaming dreams no mortal ever dared to dream before.",
   "Surround yourself with the best people you can find, delegate authority, and don't interfere as long as the policy you've decided upon is being carried out.",
   "No sound, once made, is ever truly lost. In electric clouds, all are safely trapped, and with a touch, if we find them, we can recapture those echoes of sad, forgotten wars, long summers, and sweet autumns.",
+  "As long as you're being honest and there's intention in what you're doing, then I think that energy permeates your field and becomes like a homing signal for other people with like energies.",
 ];
