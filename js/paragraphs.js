@@ -36,4 +36,5 @@ const paragraphs = [
   "No sound, once made, is ever truly lost. In electric clouds, all are safely trapped, and with a touch, if we find them, we can recapture those echoes of sad, forgotten wars, long summers, and sweet autumns.",
   "As long as you're being honest and there's intention in what you're doing, then I think that energy permeates your field and becomes like a homing signal for other people with like energies.",
   "It took me quite a long time to develop a voice, and now that I have it, I am not going to be silent.",
+  "Death does not concern us, because as long as we exist, death is not here. And when it does come, we no longer exist.",
 ];
