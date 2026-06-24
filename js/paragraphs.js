@@ -38,4 +38,5 @@ const paragraphs = [
   "It took me quite a long time to develop a voice, and now that I have it, I am not going to be silent.",
   "Death does not concern us, because as long as we exist, death is not here. And when it does come, we no longer exist.",
   "I learned a long time ago the wisest thing I can do is be on my own side, be an advocate for myself and others like me.",
+  "What is ominous is the ease with which some people go from saying that they don't like something to saying that the government should forbid it. When you go down that road, don't expect freedom to survive very long.",
 ];
