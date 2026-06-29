@@ -41,4 +41,5 @@ const paragraphs = [
   "What is ominous is the ease with which some people go from saying that they don't like something to saying that the government should forbid it. When you go down that road, don't expect freedom to survive very long.",
   "Millions long for immortality who don't know what to do with themselves on a rainy Sunday afternoon.",
   "Treasure the love you receive above all. It will survive long after your good health has vanished.",
+  "Failure after long perseverance is much grander than never to have a striving good enough to be called a failure.",
 ];
