@@ -42,4 +42,5 @@ const paragraphs = [
   "Millions long for immortality who don't know what to do with themselves on a rainy Sunday afternoon.",
   "Treasure the love you receive above all. It will survive long after your good health has vanished.",
   "Failure after long perseverance is much grander than never to have a striving good enough to be called a failure.",
+  "A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.",
 ];
