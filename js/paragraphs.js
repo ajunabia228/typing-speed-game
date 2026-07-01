@@ -43,4 +43,5 @@ const paragraphs = [
   "Treasure the love you receive above all. It will survive long after your good health has vanished.",
   "Failure after long perseverance is much grander than never to have a striving good enough to be called a failure.",
   "A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.",
+  "Look for yourself, and you will find in the long run only hatred, loneliness, despair, rage, ruin, and decay. But look for Christ, and you will find Him, and with Him everything else thrown in.",
 ];
