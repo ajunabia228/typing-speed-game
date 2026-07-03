@@ -46,4 +46,5 @@ const paragraphs = [
   "Look for yourself, and you will find in the long run only hatred, loneliness, despair, rage, ruin, and decay. But look for Christ, and you will find Him, and with Him everything else thrown in.",
   "There are risks and costs to action. But they are far less than the long range risks of comfortable inaction.",
   "Words are more powerful than some noises. Noises won't last long. Lyrics are so important, and people don't realise that.",
+  "You must learn from the mistakes of others. You can't possibly live long enough to make them all yourself.",
 ];
