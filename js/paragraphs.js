@@ -48,4 +48,5 @@ const paragraphs = [
   "Words are more powerful than some noises. Noises won't last long. Lyrics are so important, and people don't realise that.",
   "You must learn from the mistakes of others. You can't possibly live long enough to make them all yourself.",
   "The mind is the limit. As long as the mind can envision the fact that you can do something, you can do it, as long as you really believe 100 percent.",
+  "Security is mostly a superstition. It does not exist in nature, nor do the children of men as a whole experience it. Avoiding danger is no safer in the long run than outright exposure. Life is either a daring adventure, or nothing.",
 ];
