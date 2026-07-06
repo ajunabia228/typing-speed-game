@@ -47,4 +47,5 @@ const paragraphs = [
   "There are risks and costs to action. But they are far less than the long range risks of comfortable inaction.",
   "Words are more powerful than some noises. Noises won't last long. Lyrics are so important, and people don't realise that.",
   "You must learn from the mistakes of others. You can't possibly live long enough to make them all yourself.",
+  "The mind is the limit. As long as the mind can envision the fact that you can do something, you can do it, as long as you really believe 100 percent.",
 ];
