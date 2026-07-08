@@ -49,4 +49,5 @@ const paragraphs = [
   "You must learn from the mistakes of others. You can't possibly live long enough to make them all yourself.",
   "The mind is the limit. As long as the mind can envision the fact that you can do something, you can do it, as long as you really believe 100 percent.",
   "Security is mostly a superstition. It does not exist in nature, nor do the children of men as a whole experience it. Avoiding danger is no safer in the long run than outright exposure. Life is either a daring adventure, or nothing.",
+  "I think that helping people is a wonderful thing to be able to do. But, I can't really say that I like them. I don't believe their methods will reform the world or help others. In the end, I believe that is only something that you yourself can really solve.",
 ];
