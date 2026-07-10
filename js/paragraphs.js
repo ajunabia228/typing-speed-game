@@ -51,4 +51,5 @@ const paragraphs = [
   "Security is mostly a superstition. It does not exist in nature, nor do the children of men as a whole experience it. Avoiding danger is no safer in the long run than outright exposure. Life is either a daring adventure, or nothing.",
   "I think that helping people is a wonderful thing to be able to do. But, I can't really say that I like them. I don't believe their methods will reform the world or help others. In the end, I believe that is only something that you yourself can really solve.",
   "So long as you have food in your mouth, you have solved all questions for the time being.",
+  "A team is where a boy can prove his courage on his own. A gang is where a coward goes to hide.",
 ];
