@@ -52,4 +52,5 @@ const paragraphs = [
   "I think that helping people is a wonderful thing to be able to do. But, I can't really say that I like them. I don't believe their methods will reform the world or help others. In the end, I believe that is only something that you yourself can really solve.",
   "So long as you have food in your mouth, you have solved all questions for the time being.",
   "A team is where a boy can prove his courage on his own. A gang is where a coward goes to hide.",
+  "Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.",
 ];
