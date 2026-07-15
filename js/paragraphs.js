@@ -56,4 +56,5 @@ const paragraphs = [
   "If you live long enough, you'll make mistakes. But if you learn from them, you'll be a better person. It's how you handle adversity, not how it affects you. The main thing is never quit, never quit, never quit.",
   "It doesn't matter if a cat is black or white, so long as it catches mice.",
   "There are two things that won't last long in this world, and that's dogs chasing cars and pros putting for pars.",
+  "Bureaucracy defends the status quo long past the time when the quo has lost its status.",
 ];
