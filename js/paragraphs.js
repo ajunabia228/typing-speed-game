@@ -57,4 +57,5 @@ const paragraphs = [
   "It doesn't matter if a cat is black or white, so long as it catches mice.",
   "There are two things that won't last long in this world, and that's dogs chasing cars and pros putting for pars.",
   "Bureaucracy defends the status quo long past the time when the quo has lost its status.",
+  "As long as the world is turning and spinning, we're gonna be dizzy and we're gonna make mistakes.",
 ];
