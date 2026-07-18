@@ -58,4 +58,5 @@ const paragraphs = [
   "There are two things that won't last long in this world, and that's dogs chasing cars and pros putting for pars.",
   "Bureaucracy defends the status quo long past the time when the quo has lost its status.",
   "As long as the world is turning and spinning, we're gonna be dizzy and we're gonna make mistakes.",
+  "Informed decision-making comes from a long tradition of guessing and then blaming others for inadequate results.",
 ];
