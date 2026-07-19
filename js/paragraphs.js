@@ -59,4 +59,5 @@ const paragraphs = [
   "Bureaucracy defends the status quo long past the time when the quo has lost its status.",
   "As long as the world is turning and spinning, we're gonna be dizzy and we're gonna make mistakes.",
   "Informed decision-making comes from a long tradition of guessing and then blaming others for inadequate results.",
+  "As long as the people don't fear the truth, there is hope. For once they fear it, the one who tells it doesn't stand a chance. And today, truth is still beautiful... but so frightening.",
 ];
