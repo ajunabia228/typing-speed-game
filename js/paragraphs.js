@@ -60,4 +60,5 @@ const paragraphs = [
   "As long as the world is turning and spinning, we're gonna be dizzy and we're gonna make mistakes.",
   "Informed decision-making comes from a long tradition of guessing and then blaming others for inadequate results.",
   "As long as the people don't fear the truth, there is hope. For once they fear it, the one who tells it doesn't stand a chance. And today, truth is still beautiful... but so frightening.",
+  "Everyone teases me in the family that I spend far too long chatting. So I think I've still got to learn a little bit more and to pick up a few more tips, I suppose.",
 ];
