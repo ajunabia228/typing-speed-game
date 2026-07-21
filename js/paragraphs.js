@@ -61,4 +61,5 @@ const paragraphs = [
   "Informed decision-making comes from a long tradition of guessing and then blaming others for inadequate results.",
   "As long as the people don't fear the truth, there is hope. For once they fear it, the one who tells it doesn't stand a chance. And today, truth is still beautiful... but so frightening.",
   "Everyone teases me in the family that I spend far too long chatting. So I think I've still got to learn a little bit more and to pick up a few more tips, I suppose.",
+  "Life is often compared to a marathon, but I think it is more like being a sprinter; long stretches of hard work punctuated by brief moments in which we are given the opportunity to perform at our best.",
 ];
