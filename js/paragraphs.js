@@ -63,4 +63,5 @@ const paragraphs = [
   "Everyone teases me in the family that I spend far too long chatting. So I think I've still got to learn a little bit more and to pick up a few more tips, I suppose.",
   "Life is often compared to a marathon, but I think it is more like being a sprinter; long stretches of hard work punctuated by brief moments in which we are given the opportunity to perform at our best.",
   "I have brought myself, by long meditation, to the conviction that a human being with a settled purpose must accomplish it, and that nothing can resist a will which will stake even existence upon its fulfillment.",
+  "If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea.",
 ];
