@@ -65,4 +65,5 @@ const paragraphs = [
   "I have brought myself, by long meditation, to the conviction that a human being with a settled purpose must accomplish it, and that nothing can resist a will which will stake even existence upon its fulfillment.",
   "If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea.",
   "You don't need to save the world to find meaning in life. Sometimes all you need is something simple, like someone to take care of.",
+  "I don't know if I was a desirable person, not just physically but emotionally and mentally and intellectually. I still have a long way go and a lot to learn, but I'm on my way, I don't think I'm terribly attractive, but I'm comfortable with my looks.",
 ];
