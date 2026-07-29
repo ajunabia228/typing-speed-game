@@ -66,4 +66,5 @@ const paragraphs = [
   "If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea.",
   "You don't need to save the world to find meaning in life. Sometimes all you need is something simple, like someone to take care of.",
   "I don't know if I was a desirable person, not just physically but emotionally and mentally and intellectually. I still have a long way go and a lot to learn, but I'm on my way, I don't think I'm terribly attractive, but I'm comfortable with my looks.",
+  "I think everybody longs to be loved and longs to know that he or she is lovable. And, consequently, the greatest thing that we can do is to help somebody know that they're loved and capable of loving.",
 ];
