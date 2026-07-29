@@ -67,4 +67,5 @@ const paragraphs = [
   "You don't need to save the world to find meaning in life. Sometimes all you need is something simple, like someone to take care of.",
   "I don't know if I was a desirable person, not just physically but emotionally and mentally and intellectually. I still have a long way go and a lot to learn, but I'm on my way, I don't think I'm terribly attractive, but I'm comfortable with my looks.",
   "I think everybody longs to be loved and longs to know that he or she is lovable. And, consequently, the greatest thing that we can do is to help somebody know that they're loved and capable of loving.",
+  "You don't get married because you've proven you're in love. You get married so that you can prove it.",
 ];
