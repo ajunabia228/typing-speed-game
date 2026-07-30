@@ -68,4 +68,5 @@ const paragraphs = [
   "I don't know if I was a desirable person, not just physically but emotionally and mentally and intellectually. I still have a long way go and a lot to learn, but I'm on my way, I don't think I'm terribly attractive, but I'm comfortable with my looks.",
   "I think everybody longs to be loved and longs to know that he or she is lovable. And, consequently, the greatest thing that we can do is to help somebody know that they're loved and capable of loving.",
   "You don't get married because you've proven you're in love. You get married so that you can prove it.",
+  "Some people ask the secret of our long marriage. We take time to go to a restaurant two times a week. A little candlelight, dinner, soft music and dancing. She goes Tuesdays, I go Fridays.",
 ];
