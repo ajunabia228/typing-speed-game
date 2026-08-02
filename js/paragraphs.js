@@ -70,4 +70,5 @@ const paragraphs = [
   "You don't get married because you've proven you're in love. You get married so that you can prove it.",
   "Some people ask the secret of our long marriage. We take time to go to a restaurant two times a week. A little candlelight, dinner, soft music and dancing. She goes Tuesdays, I go Fridays.",
   "If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea.",
+  "I'd wrap myself in the blanket at night against the cold and watch the bones take shape beneath my skin and I would pray that I might see the truth of the world before I died.",
 ];
