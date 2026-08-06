@@ -73,4 +73,5 @@ const paragraphs = [
   "I'd wrap myself in the blanket at night against the cold and watch the bones take shape beneath my skin and I would pray that I might see the truth of the world before I died.",
   "The most important thing, in anything you do, is always trying your hardest, because even if you try your hardest and it's not as good as you'd hoped, you still have that sense of not letting yourself down.",
   "The strength of heart required to face oneself has been made manifest...",
+  "I have learned that as long as I hold fast to my beliefs and values - and follow my own moral compass - then the only expectations I need to live up to are my own.",
 ];
