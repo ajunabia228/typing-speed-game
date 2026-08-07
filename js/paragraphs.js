@@ -74,4 +74,5 @@ const paragraphs = [
   "The most important thing, in anything you do, is always trying your hardest, because even if you try your hardest and it's not as good as you'd hoped, you still have that sense of not letting yourself down.",
   "The strength of heart required to face oneself has been made manifest...",
   "I have learned that as long as I hold fast to my beliefs and values - and follow my own moral compass - then the only expectations I need to live up to are my own.",
+  "Let us not seek the Republican answer or the Democratic answer, but the right answer. Let us not seek to fix the blame for the past. Let us accept our own responsibility for the future.",
 ];
