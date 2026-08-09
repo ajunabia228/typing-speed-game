@@ -75,4 +75,5 @@ const paragraphs = [
   "The strength of heart required to face oneself has been made manifest...",
   "I have learned that as long as I hold fast to my beliefs and values - and follow my own moral compass - then the only expectations I need to live up to are my own.",
   "Let us not seek the Republican answer or the Democratic answer, but the right answer. Let us not seek to fix the blame for the past. Let us accept our own responsibility for the future.",
+  "Wisdom is not about knowing all the answers. It's about learning to live well with the questions, and finding peace in the space between what we know and what we'll never understand.",
 ];
