@@ -77,7 +77,7 @@ To play locally, please follow the instructions below 🤔
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/typing-speed-test.git
+   git clone https://github.com/ ajunabia228/typing-speed-game.git
    ```
 2. Open `index.html` in any modern browser - no server or install required.
 
