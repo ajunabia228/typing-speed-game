@@ -78,4 +78,5 @@ const paragraphs = [
   "Wisdom is not about knowing all the answers. It's about learning to live well with the questions, and finding peace in the space between what we know and what we'll never understand.",
   "The scars we carry are not signs of weakness; they are proof that we survived something that tried to break us, and in surviving, we became stronger than we knew we could be.",
   "Consistency beats intensity every single time. The small habits you repeat each day, the minor efforts you don't think twice about, these are the things that quietly reshape your entire life over months and years.",
+  "The people who change the world are rarely the ones waiting for permission. They are the ones who saw a problem, believed they could help, and started before they felt ready.",
 ];
