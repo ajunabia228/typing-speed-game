@@ -80,4 +80,5 @@ const paragraphs = [
   "Consistency beats intensity every single time. The small habits you repeat each day, the minor efforts you don't think twice about, these are the things that quietly reshape your entire life over months and years.",
   "The people who change the world are rarely the ones waiting for permission. They are the ones who saw a problem, believed they could help, and started before they felt ready.",
   "Regret doesn't come from the things you tried and failed at. It comes from the things you never attempted because you were too afraid of what others might think.",
+  "The people worth keeping in your life are not the ones who make you feel perfect. They're the ones who see all your flaws and choose to stay, because they understand that imperfection is where real connection begins.",
 ];
