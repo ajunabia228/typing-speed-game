@@ -79,4 +79,5 @@ const paragraphs = [
   "The scars we carry are not signs of weakness; they are proof that we survived something that tried to break us, and in surviving, we became stronger than we knew we could be.",
   "Consistency beats intensity every single time. The small habits you repeat each day, the minor efforts you don't think twice about, these are the things that quietly reshape your entire life over months and years.",
   "The people who change the world are rarely the ones waiting for permission. They are the ones who saw a problem, believed they could help, and started before they felt ready.",
+  "Regret doesn't come from the things you tried and failed at. It comes from the things you never attempted because you were too afraid of what others might think.",
 ];
