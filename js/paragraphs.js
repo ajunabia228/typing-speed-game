@@ -82,4 +82,6 @@ const paragraphs = [
   "Regret doesn't come from the things you tried and failed at. It comes from the things you never attempted because you were too afraid of what others might think.",
   "The people worth keeping in your life are not the ones who make you feel perfect. They're the ones who see all your flaws and choose to stay, because they understand that imperfection is where real connection begins.",
   "The difference between dreamers and doers isn't talent or circumstance. It's the willingness to take the first step, even when the path ahead is unclear and there are no guarantees of success.",
+  "What we resist tends to persist, but what we accept with curiosity begins to transform. The moment you stop fighting yourself is the moment you finally have the energy to build something worthwhile.",
+  
 ];
