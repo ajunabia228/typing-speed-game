@@ -83,5 +83,6 @@ const paragraphs = [
   "The people worth keeping in your life are not the ones who make you feel perfect. They're the ones who see all your flaws and choose to stay, because they understand that imperfection is where real connection begins.",
   "The difference between dreamers and doers isn't talent or circumstance. It's the willingness to take the first step, even when the path ahead is unclear and there are no guarantees of success.",
   "What we resist tends to persist, but what we accept with curiosity begins to transform. The moment you stop fighting yourself is the moment you finally have the energy to build something worthwhile.",
+  "You cannot hate yourself into becoming someone you love. Self-improvement built on shame and self-criticism will always crumble, but growth rooted in self-compassion endures.",
   
 ];
