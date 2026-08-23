@@ -85,5 +85,6 @@ const paragraphs = [
   "What we resist tends to persist, but what we accept with curiosity begins to transform. The moment you stop fighting yourself is the moment you finally have the energy to build something worthwhile.",
   "You cannot hate yourself into becoming someone you love. Self-improvement built on shame and self-criticism will always crumble, but growth rooted in self-compassion endures.",
   "The people who matter most are usually the ones who stick around when you're at your worst, not your best. Remember them, because loyalty like that is rarer than you think.",
+  "The strongest thing you can do is admit when you're struggling and ask for help. Vulnerability is not weakness; it's the only way to build real connection with other people.",
   
 ];
