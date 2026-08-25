@@ -87,5 +87,6 @@ const paragraphs = [
   "The people who matter most are usually the ones who stick around when you're at your worst, not your best. Remember them, because loyalty like that is rarer than you think.",
   "The strongest thing you can do is admit when you're struggling and ask for help. Vulnerability is not weakness; it's the only way to build real connection with other people.",
   "Comparison is the thief of joy because it measures your life against someone else's highlight reel. The moment you stop looking sideways at others and focus on your own journey is the moment you finally start making real progress.",
+  "Not every chapter of your life will be a victory, and that's okay. Some chapters teach you, some humble you, and some simply remind you that you're still here, still trying, and that's enough for today.",
   
 ];
