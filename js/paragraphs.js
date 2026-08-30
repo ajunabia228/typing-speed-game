@@ -90,5 +90,6 @@ const paragraphs = [
   "Not every chapter of your life will be a victory, and that's okay. Some chapters teach you, some humble you, and some simply remind you that you're still here, still trying, and that's enough for today.",
   "The future is not something that happens to you. It's something you build, one decision at a time, and every choice you make today is a brick in the foundation of who you'll become tomorrow.",
   "The most honest conversations often happen in silence, between two people who understand that sometimes being present is more powerful than having the perfect words to say.",
+  "Your past doesn't define your future unless you use it as an excuse to stop trying. Every ending is just a blank page waiting for you to write something better than what came before.",
   
 ];
