@@ -93,5 +93,6 @@ const paragraphs = [
   "Your past doesn't define your future unless you use it as an excuse to stop trying. Every ending is just a blank page waiting for you to write something better than what came before.",
   "Growth doesn't happen in the comfortable moments. It happens when you push beyond what feels safe, when you're willing to be a beginner again, and when you accept that progress is messy before it becomes beautiful.",
   "The version of yourself you're trying to become is already inside you, waiting. You don't need to become someone else; you just need to stop pretending to be someone you're not.",
+  "Forgiveness is not about excusing what someone did. It's about freeing yourself from the weight of carrying their mistakes around, so you have room to move forward with your own life.",
   
 ];
