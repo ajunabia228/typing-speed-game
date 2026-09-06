@@ -95,5 +95,6 @@ const paragraphs = [
   "The version of yourself you're trying to become is already inside you, waiting. You don't need to become someone else; you just need to stop pretending to be someone you're not.",
   "Forgiveness is not about excusing what someone did. It's about freeing yourself from the weight of carrying their mistakes around, so you have room to move forward with your own life.",
   "The people who inspire us most are not the ones who have it all figured out. They are the ones brave enough to show their struggles and honest enough to admit they're still learning, just like everyone else.",
+  "The moments that matter most are usually the quiet ones, the unremarkable hours spent with people you love, doing nothing in particular, but everything that counts.",
   
 ];
