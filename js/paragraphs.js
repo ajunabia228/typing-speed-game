@@ -97,5 +97,6 @@ const paragraphs = [
   "The people who inspire us most are not the ones who have it all figured out. They are the ones brave enough to show their struggles and honest enough to admit they're still learning, just like everyone else.",
   "The moments that matter most are usually the quiet ones, the unremarkable hours spent with people you love, doing nothing in particular, but everything that counts.",
   "The only permission you need to change your life is the one you give yourself. Stop waiting for someone to tell you that you're ready, because readiness is something you build by taking action, not by thinking about it.",
+  "You don't have to be perfect to be worthy of love, respect, or a place at the table. Your imperfections are not flaws to fix; they are the cracks where light gets in and where others see themselves reflected back.",
   
 ];
