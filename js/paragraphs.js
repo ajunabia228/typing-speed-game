@@ -98,5 +98,6 @@ const paragraphs = [
   "The moments that matter most are usually the quiet ones, the unremarkable hours spent with people you love, doing nothing in particular, but everything that counts.",
   "The only permission you need to change your life is the one you give yourself. Stop waiting for someone to tell you that you're ready, because readiness is something you build by taking action, not by thinking about it.",
   "You don't have to be perfect to be worthy of love, respect, or a place at the table. Your imperfections are not flaws to fix; they are the cracks where light gets in and where others see themselves reflected back.",
+  "Every great thing you admire started as someone's crazy idea that nobody believed in. The difference between dreamers and builders is simple: builders kept going even when everyone else stopped listening.",
   
 ];
