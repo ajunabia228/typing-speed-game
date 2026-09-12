@@ -100,5 +100,6 @@ const paragraphs = [
   "You don't have to be perfect to be worthy of love, respect, or a place at the table. Your imperfections are not flaws to fix; they are the cracks where light gets in and where others see themselves reflected back.",
   "Every great thing you admire started as someone's crazy idea that nobody believed in. The difference between dreamers and builders is simple: builders kept going even when everyone else stopped listening.",
   "The way you spend your days is the way you spend your life. So pay attention to the small moments, the conversations that matter, the work that feels meaningful—because these everyday choices are what your life is actually made of.",
+  "Boundaries are not walls that keep people out. They are the lines you draw to protect what matters most, and the people who truly love you will respect them because they want you to be well, not just available.",
   
 ];
