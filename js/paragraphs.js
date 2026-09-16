@@ -102,5 +102,6 @@ const paragraphs = [
   "The way you spend your days is the way you spend your life. So pay attention to the small moments, the conversations that matter, the work that feels meaningful—because these everyday choices are what your life is actually made of.",
   "Boundaries are not walls that keep people out. They are the lines you draw to protect what matters most, and the people who truly love you will respect them because they want you to be well, not just available.",
   "The impact you have on someone else's life rarely shows up in the moment. It reveals itself years later, in the way they treat others with kindness, in the courage they find to try something new, in the gentleness they show themselves when they stumble.",
+  "Your voice matters, not because everyone will agree with you, but because somewhere, someone needs to hear exactly what only you can say, the way only you can say it.",
   
 ];
