@@ -104,5 +104,6 @@ const paragraphs = [
   "The impact you have on someone else's life rarely shows up in the moment. It reveals itself years later, in the way they treat others with kindness, in the courage they find to try something new, in the gentleness they show themselves when they stumble.",
   "Your voice matters, not because everyone will agree with you, but because somewhere, someone needs to hear exactly what only you can say, the way only you can say it.",
   "There's a difference between knowing you should be grateful and actually feeling grateful in your bones. The second one comes from stopping long enough to really see what you have, before the day sweeps it away.",
+  "The things that scare you most are often the things you need most. Fear is just a signal pointing you toward growth, toward the version of yourself that's waiting on the other side of discomfort.",
   
 ];
