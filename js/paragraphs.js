@@ -105,5 +105,6 @@ const paragraphs = [
   "Your voice matters, not because everyone will agree with you, but because somewhere, someone needs to hear exactly what only you can say, the way only you can say it.",
   "There's a difference between knowing you should be grateful and actually feeling grateful in your bones. The second one comes from stopping long enough to really see what you have, before the day sweeps it away.",
   "The things that scare you most are often the things you need most. Fear is just a signal pointing you toward growth, toward the version of yourself that's waiting on the other side of discomfort.",
+  "The life you want is built in the boring in-between moments, the ones nobody notices or celebrates. Show up for those moments anyway, because that's where the real work happens.",
   
 ];
