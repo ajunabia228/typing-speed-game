@@ -108,5 +108,6 @@ const paragraphs = [
   "The life you want is built in the boring in-between moments, the ones nobody notices or celebrates. Show up for those moments anyway, because that's where the real work happens.",
   "Sometimes the most productive thing you can do is rest. Not because you've earned it, but because you cannot pour from an empty cup, and burnout is just ambition without wisdom.",
   "The success you see in other people's lives is rarely the full story. Behind every accomplishment is doubt, failure, and countless moments when they wanted to quit but didn't. You're closer than you think.",
-
+  "Some people wait their whole lives for a sign, never realizing they were the sign all along.",
+  
 ];
