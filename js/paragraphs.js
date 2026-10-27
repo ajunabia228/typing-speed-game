@@ -109,5 +109,6 @@ const paragraphs = [
   "Sometimes the most productive thing you can do is rest. Not because you've earned it, but because you cannot pour from an empty cup, and burnout is just ambition without wisdom.",
   "The success you see in other people's lives is rarely the full story. Behind every accomplishment is doubt, failure, and countless moments when they wanted to quit but didn't. You're closer than you think.",
   "The hardest battles are fought in silence, in the quiet moments before dawn when no one sees you trying. But those are the moments that define who you become when the world finally notices.",
+  "Failure is not the opposite of success; it is the tuition you pay for lessons that no book, no mentor, and no amount of wishing could ever teach you. Keep enrolling.",
   
 ];
