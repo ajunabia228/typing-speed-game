@@ -111,5 +111,6 @@ const paragraphs = [
   "The hardest battles are fought in silence, in the quiet moments before dawn when no one sees you trying. But those are the moments that define who you become when the world finally notices.",
   "Failure is not the opposite of success; it is the tuition you pay for lessons that no book, no mentor, and no amount of wishing could ever teach you. Keep enrolling.",
   "Silence is not empty. It is full of answers we are too busy to hear, too proud to accept, and too afraid to act on. Sit with it long enough and it will tell you exactly what you already know.",
+  "Every scar you carry is a story of survival, and every story of survival is proof that you are stronger than the thing that tried to break you.",
   
 ];
