@@ -114,5 +114,6 @@ const paragraphs = [
   "Every scar you carry is a story of survival, and every story of survival is proof that you are stronger than the thing that tried to break you.",
   "The bravest thing you will ever do is keep showing up for your own life, even on the days when no one claps, no one notices, and you can barely see the point.",
   "Nobody remembers the days you played it safe, but they never forget the moment you decided to be brave. Choose the moment, not the comfort.",
+  "Sometimes the kindest thing you can do for yourself is stop asking why you're not further along and start honoring how far you've already come.",
   
 ];
