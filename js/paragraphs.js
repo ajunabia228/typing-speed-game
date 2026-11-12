@@ -117,5 +117,6 @@ const paragraphs = [
   "Sometimes the kindest thing you can do for yourself is stop asking why you're not further along and start honoring how far you've already come.",
   "You will never find peace by chasing a version of yourself that someone else designed. The only life worth living is the one you choose on purpose.",
   "The quietest people often carry the loudest battles, so be gentle with everyone you meet, because you never know what war they are fighting behind a calm face.",
+  "One day you'll look back and realize the detours you resented were the very roads that led you somewhere better than the destination you originally planned.",
   
 ];
