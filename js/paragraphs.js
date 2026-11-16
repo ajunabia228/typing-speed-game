@@ -119,5 +119,6 @@ const paragraphs = [
   "The quietest people often carry the loudest battles, so be gentle with everyone you meet, because you never know what war they are fighting behind a calm face.",
   "One day you'll look back and realize the detours you resented were the very roads that led you somewhere better than the destination you originally planned.",
   "The problem with waiting for the perfect moment is that it never announces itself. It slips by quietly while you're busy preparing, and by the time you notice, it's already someone else's moment.",
-  
+  "Knowledge can be communicated, but not wisdom. One can find it, live it, do wonders through it, but one cannot communicate and teach it.",
+
 ];
